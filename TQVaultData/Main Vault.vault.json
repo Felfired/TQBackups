@@ -4,7 +4,13 @@
   "currentlySelectedSackNumber": 0,
   "sacks": [
     {
-      "iconinfo": null,
+      "iconinfo": {
+        "mode": 1,
+        "label": "",
+        "on": "ITEMS\\QUESTITEMS\\UIBITMAPS\\QI_RHAKOTISSCROLL.TEX",
+        "off": "ITEMS\\QUESTITEMS\\UIBITMAPS\\QI_RHAKOTISSCROLL.TEX",
+        "over": ""
+      },
       "items": []
     },
     {
