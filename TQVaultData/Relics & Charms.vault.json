@@ -23,7 +23,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1000750208,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -38,7 +38,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
         },
@@ -53,7 +53,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -68,7 +68,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 898864248,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 0
         },
@@ -83,7 +83,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 971525256,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
         },
@@ -98,7 +98,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1463078096,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 0
         },
@@ -113,7 +113,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1309335672,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -128,7 +128,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 0
         },
@@ -143,7 +143,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1074531568,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -158,7 +158,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 0
         },
@@ -173,7 +173,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1267276872,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         },
@@ -188,7 +188,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 0
         },
@@ -203,8 +203,38 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 985040960,
+          "var2": 2035248,
           "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 8629,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArtemisBowstring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_+%Damage_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 13,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 28999,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArtemisBowstring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
           "pointY": 0
         },
         {
@@ -218,8 +248,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 13,
+          "var2": 2035248,
+          "pointX": 15,
           "pointY": 0
         },
         {
@@ -233,8 +263,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1160771760,
-          "pointX": 14,
+          "var2": 2035248,
+          "pointX": 16,
           "pointY": 0
         },
         {
@@ -248,8 +278,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1269692480,
-          "pointX": 15,
+          "var2": 2035248,
+          "pointX": 17,
           "pointY": 0
         },
         {
@@ -263,9 +293,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 16,
-          "pointY": 0
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -278,9 +308,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 17,
-          "pointY": 0
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -293,8 +323,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
+          "var2": 2035248,
+          "pointX": 2,
           "pointY": 1
         },
         {
@@ -308,8 +338,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1192238248,
-          "pointX": 1,
+          "var2": 2035248,
+          "pointX": 3,
           "pointY": 1
         },
         {
@@ -323,8 +353,68 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 718885048,
-          "pointX": 2,
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 14570,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnubisWrath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_DamageBonus_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 5,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 18539,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnubisWrath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 10938776,
+          "pointX": 6,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 22565,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnubisWrath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 773904448,
+          "pointX": 7,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 10603,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnubisWrath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 841108632,
+          "pointX": 8,
           "pointY": 1
         },
         {
@@ -338,8 +428,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 3,
+          "var2": 2035248,
+          "pointX": 9,
           "pointY": 1
         },
         {
@@ -353,8 +443,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1935430824,
-          "pointX": 4,
+          "var2": 2035248,
+          "pointX": 10,
           "pointY": 1
         },
         {
@@ -368,8 +458,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1056908344,
-          "pointX": 5,
+          "var2": 2035248,
+          "pointX": 11,
           "pointY": 1
         },
         {
@@ -383,8 +473,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 6,
+          "var2": 2035248,
+          "pointX": 12,
           "pointY": 1
         },
         {
@@ -398,8 +488,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 722611656,
-          "pointX": 7,
+          "var2": 2035248,
+          "pointX": 13,
           "pointY": 1
         },
         {
@@ -413,8 +503,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
-          "pointX": 8,
+          "var2": 2035248,
+          "pointX": 14,
           "pointY": 1
         },
         {
@@ -428,8 +518,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 9,
+          "var2": 2035248,
+          "pointX": 15,
           "pointY": 1
         },
         {
@@ -443,9 +533,144 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1130833184,
-          "pointX": 10,
+          "var2": 2035248,
+          "pointX": 16,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 7991,
+          "baseName": "Records\\Item\\Relics\\01_Act2_UdjatOfHorus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 29647,
+          "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 12207,
+          "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 11830,
+          "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Intelligence_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1412974720,
+          "pointX": 2,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 9742,
+          "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 10938776,
+          "pointX": 3,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 7929,
+          "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 2542,
+          "baseName": "Records\\Item\\Relics\\01_Act3_JadeEmperorsSerenity.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_%Protection_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 5,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 5979,
+          "baseName": "Records\\Item\\Relics\\01_Act3_JadeEmperorsSerenity.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 730706048,
+          "pointX": 6,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 16077,
+          "baseName": "Records\\Item\\Relics\\01_Act3_JadeEmperorsSerenity.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1048875168,
+          "pointX": 7,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -458,9 +683,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 11,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -473,9 +698,84 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 10938776,
+          "var2": 2035248,
+          "pointX": 9,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 29260,
+          "baseName": "Records\\Item\\Relics\\01_Act3_MonkeyKingsTrickery.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 12421,
+          "baseName": "Records\\Item\\Relics\\01_Act3_MonkeyKingsTrickery.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1059479776,
+          "pointX": 11,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 20684,
+          "baseName": "Records\\Item\\Relics\\01_Act3_MonkeyKingsTrickery.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
           "pointX": 12,
-          "pointY": 1
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 22462,
+          "baseName": "Records\\Item\\Relics\\01_Act3_MonkeyKingsTrickery.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 13,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 29908,
+          "baseName": "Records\\Item\\Relics\\01_Act3_MonkeyKingsTrickery.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 10938776,
+          "pointX": 14,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -488,9 +788,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": -917748572,
-          "pointX": 13,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 15,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -503,9 +803,54 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1096438968,
-          "pointX": 14,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 4715,
+          "baseName": "Records\\Item\\Relics\\01_Act3_ShenNongsDarkMedicine.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_DamageBonus_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 959104120,
+          "pointX": 17,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 1606,
+          "baseName": "Records\\Item\\Relics\\01_Act3_ShenNongsDarkMedicine.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_DamageBonus_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 16479,
+          "baseName": "Records\\Item\\Relics\\01_Act3_ShenNongsDarkMedicine.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1049096488,
+          "pointX": 1,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -518,9 +863,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
-          "pointX": 15,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -533,9 +878,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 741854872,
-          "pointX": 16,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -548,9 +893,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 17,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -563,9 +908,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 5,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -578,9 +923,54 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1112655912,
-          "pointX": 1,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 32104,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_PersephonesTears.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 746494112,
+          "pointX": 7,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 27952,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_RageOfAres.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_ReducedProtection_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 964287688,
+          "pointX": 8,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 28816,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_RageOfAres.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 928945312,
+          "pointX": 9,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -593,9 +983,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1058145528,
-          "pointX": 2,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 3
         }
       ]
     },
@@ -610,6 +1000,21 @@
       "items": [
         {
           "stackSize": 1,
+          "seed": 17216,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1935430824,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 2905,
           "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
           "prefixName": "",
@@ -619,8 +1024,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1254050448,
-          "pointX": 0,
+          "var2": 2035248,
+          "pointX": 1,
           "pointY": 0
         },
         {
@@ -634,8 +1039,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 990290696,
-          "pointX": 1,
+          "var2": 2035248,
+          "pointX": 2,
           "pointY": 0
         },
         {
@@ -649,8 +1054,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 834605240,
-          "pointX": 2,
+          "var2": 2035248,
+          "pointX": 3,
           "pointY": 0
         },
         {
@@ -664,8 +1069,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1106612440,
-          "pointX": 3,
+          "var2": 2035248,
+          "pointX": 4,
           "pointY": 0
         },
         {
@@ -679,8 +1084,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1098281224,
-          "pointX": 4,
+          "var2": 2035248,
+          "pointX": 5,
           "pointY": 0
         },
         {
@@ -694,8 +1099,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1369350392,
-          "pointX": 5,
+          "var2": 2035248,
+          "pointX": 6,
           "pointY": 0
         },
         {
@@ -709,8 +1114,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1164029000,
-          "pointX": 6,
+          "var2": 2035248,
+          "pointX": 7,
           "pointY": 0
         },
         {
@@ -724,8 +1129,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 856950016,
-          "pointX": 7,
+          "var2": 2035248,
+          "pointX": 8,
           "pointY": 0
         },
         {
@@ -739,8 +1144,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 836979232,
-          "pointX": 8,
+          "var2": 2035248,
+          "pointX": 9,
           "pointY": 0
         },
         {
@@ -754,8 +1159,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 697688120,
-          "pointX": 9,
+          "var2": 2035248,
+          "pointX": 10,
           "pointY": 0
         },
         {
@@ -769,8 +1174,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": -14828939,
-          "pointX": 10,
+          "var2": 2035248,
+          "pointX": 11,
           "pointY": 0
         },
         {
@@ -784,8 +1189,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 780683032,
-          "pointX": 11,
+          "var2": 2035248,
+          "pointX": 12,
           "pointY": 0
         },
         {
@@ -799,8 +1204,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 591068608,
-          "pointX": 12,
+          "var2": 2035248,
+          "pointX": 13,
           "pointY": 0
         },
         {
@@ -814,8 +1219,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1192439888,
-          "pointX": 13,
+          "var2": 2035248,
+          "pointX": 14,
           "pointY": 0
         },
         {
@@ -829,8 +1234,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1176790104,
-          "pointX": 14,
+          "var2": 2035248,
+          "pointX": 15,
           "pointY": 0
         },
         {
@@ -844,8 +1249,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1188494408,
-          "pointX": 15,
+          "var2": 2035248,
+          "pointX": 16,
           "pointY": 0
         },
         {
@@ -859,8 +1264,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1166016728,
-          "pointX": 16,
+          "var2": 2035248,
+          "pointX": 17,
           "pointY": 0
         },
         {
@@ -874,9 +1279,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 696548648,
-          "pointX": 17,
-          "pointY": 0
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 19230,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_VileIchor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 532038552,
+          "pointX": 1,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -889,8 +1309,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": -1487976763,
-          "pointX": 0,
+          "var2": 2035248,
+          "pointX": 2,
           "pointY": 1
         },
         {
@@ -904,8 +1324,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": -460227259,
-          "pointX": 1,
+          "var2": 2035248,
+          "pointX": 3,
           "pointY": 1
         },
         {
@@ -919,8 +1339,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1083816544,
-          "pointX": 2,
+          "var2": 2035248,
+          "pointX": 4,
           "pointY": 1
         },
         {
@@ -934,8 +1354,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 992275136,
-          "pointX": 3,
+          "var2": 2035248,
+          "pointX": 5,
           "pointY": 1
         },
         {
@@ -949,8 +1369,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 758406712,
-          "pointX": 4,
+          "var2": 2035248,
+          "pointX": 6,
           "pointY": 1
         },
         {
@@ -964,8 +1384,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": -129224750,
-          "pointX": 5,
+          "var2": 2035248,
+          "pointX": 7,
           "pointY": 1
         },
         {
@@ -979,8 +1399,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1104349184,
-          "pointX": 6,
+          "var2": 2035248,
+          "pointX": 8,
           "pointY": 1
         },
         {
@@ -994,8 +1414,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1028528272,
-          "pointX": 7,
+          "var2": 2035248,
+          "pointX": 9,
           "pointY": 1
         },
         {
@@ -1009,8 +1429,53 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 10938776,
-          "pointX": 8,
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 671,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DiseasedPlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1145744784,
+          "pointX": 11,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 10707,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DiseasedPlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 724726904,
+          "pointX": 12,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 8979,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1274005808,
+          "pointX": 13,
           "pointY": 1
         },
         {
@@ -1024,8 +1489,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1935430824,
-          "pointX": 9,
+          "var2": 2035248,
+          "pointX": 14,
           "pointY": 1
         },
         {
@@ -1039,8 +1504,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1216809216,
-          "pointX": 10,
+          "var2": 2035248,
+          "pointX": 15,
           "pointY": 1
         },
         {
@@ -1054,8 +1519,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 855346120,
-          "pointX": 11,
+          "var2": 2035248,
+          "pointX": 16,
           "pointY": 1
         },
         {
@@ -1069,8 +1534,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1161810112,
-          "pointX": 12,
+          "var2": 2035248,
+          "pointX": 17,
           "pointY": 1
         },
         {
@@ -1084,9 +1549,9 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1099770440,
-          "pointX": 13,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1099,9 +1564,54 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 737024312,
-          "pointX": 14,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 20323,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 883613744,
+          "pointX": 2,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 25274,
+          "baseName": "records\\item\\animalrelics\\01_multacts_venomsac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 775071904,
+          "pointX": 3,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 29720,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1017113704,
+          "pointX": 4,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1114,9 +1624,9 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1027738896,
-          "pointX": 15,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 5,
+          "pointY": 2
         }
       ]
     },
