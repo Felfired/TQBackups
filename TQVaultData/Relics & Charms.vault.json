@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": {
@@ -218,7 +218,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 0
         },
@@ -233,9 +233,189 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17362,
+          "baseName": "records\\item\\relics\\01_act1_artemisbowstring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_DamagePierce_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17903,
+          "baseName": "Records\\Item\\Relics\\01_Act1_DionysusWineskin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 27237,
+          "baseName": "Records\\Item\\Relics\\01_Act1_DionysusWineskin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 28694,
+          "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1047367728,
+          "pointX": 0,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 29428,
+          "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1153770952,
+          "pointX": 1,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 9593,
+          "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistElemental_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1296944360,
+          "pointX": 2,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 23170,
+          "baseName": "records\\item\\relics\\01_act1_goldenfleece.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 13606,
+          "baseName": "records\\item\\relics\\01_act1_hecatescrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 914934904,
+          "pointX": 4,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 1489,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 5,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 23934,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 583797984,
+          "pointX": 6,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 14183,
+          "baseName": "records\\item\\relics\\01_act1_hecatescrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1956426808,
+          "pointX": 7,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 9099,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -249,8 +429,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
-          "pointY": 0
+          "pointX": 9,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -264,8 +444,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
+          "pointX": 10,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -279,8 +459,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
-          "pointY": 0
+          "pointX": 11,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -294,7 +474,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 12,
           "pointY": 1
         },
         {
@@ -309,7 +489,37 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 13,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 6017,
+          "baseName": "Records\\Item\\Relics\\01_Act1_PrometheusFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 10677,
+          "baseName": "records\\item\\relics\\01_act1_prometheusflame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_DamageBonus_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
           "pointY": 1
         },
         {
@@ -324,7 +534,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 16,
           "pointY": 1
         },
         {
@@ -339,7 +549,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
+          "pointX": 17,
           "pointY": 1
         },
         {
@@ -354,8 +564,38 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 1
+          "pointX": 0,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 22362,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ZeusThunderbolt.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1158337752,
+          "pointX": 1,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 25768,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 378524067,
+          "pointX": 2,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -368,9 +608,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
-          "pointX": 5,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -383,9 +623,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 10938776,
-          "pointX": 6,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -398,9 +638,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 773904448,
-          "pointX": 7,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 5,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -413,9 +653,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 841108632,
-          "pointX": 8,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -429,8 +669,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 1
+          "pointX": 7,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -444,8 +684,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 1
+          "pointX": 8,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -459,8 +699,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 1
+          "pointX": 9,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -474,8 +714,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
-          "pointY": 1
+          "pointX": 10,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -489,8 +729,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
-          "pointY": 1
+          "pointX": 11,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -504,8 +744,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
-          "pointY": 1
+          "pointX": 12,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -519,8 +759,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
-          "pointY": 1
+          "pointX": 13,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -534,8 +774,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
-          "pointY": 1
+          "pointX": 14,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -548,9 +788,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 17,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 15,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -563,8 +803,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
+          "var2": 2035248,
+          "pointX": 16,
           "pointY": 2
         },
         {
@@ -578,8 +818,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 1,
+          "var2": 2035248,
+          "pointX": 17,
           "pointY": 2
         },
         {
@@ -593,9 +833,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1412974720,
-          "pointX": 2,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -608,9 +848,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 10938776,
-          "pointX": 3,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -623,9 +863,69 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 17116,
+          "baseName": "Records\\Item\\Relics\\01_Act3_DragonKingsDomain.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 678215120,
+          "pointX": 3,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 14201,
+          "baseName": "Records\\Item\\Relics\\01_Act3_GuanYusGrace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
           "var2": 1065353216,
           "pointX": 4,
-          "pointY": 2
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 9138,
+          "baseName": "Records\\Item\\Relics\\01_Act3_GuanYusGrace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 793832688,
+          "pointX": 5,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 4515,
+          "baseName": "Records\\Item\\Relics\\01_Act3_GuanYusGrace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": -1487976763,
+          "pointX": 6,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -638,9 +938,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 5,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -653,9 +953,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 730706048,
-          "pointX": 6,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -668,9 +968,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1048875168,
-          "pointX": 7,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 9,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 23149,
+          "baseName": "Records\\Item\\Relics\\01_Act3_LiNezhasGuile.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -684,8 +999,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 2
+          "pointX": 11,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -699,8 +1014,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 2
+          "pointX": 12,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -713,9 +1028,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 10,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 13,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -728,9 +1043,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1059479776,
-          "pointX": 11,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -743,9 +1058,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 12,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 15,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -758,9 +1073,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 13,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -773,9 +1088,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 10938776,
-          "pointX": 14,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 17,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -789,8 +1104,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
-          "pointY": 2
+          "pointX": 0,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -804,8 +1119,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
-          "pointY": 2
+          "pointX": 1,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -818,9 +1133,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 959104120,
-          "pointX": 17,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -833,9 +1148,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 3
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -848,9 +1163,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1049096488,
-          "pointX": 1,
-          "pointY": 3
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -864,8 +1179,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 3
+          "pointX": 5,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -879,8 +1194,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 3
+          "pointX": 6,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -894,8 +1209,23 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 3
+          "pointX": 7,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 9501,
+          "baseName": "Records\\Item\\Relics\\01_Act3_YenLoWangsBloodletting.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -909,8 +1239,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 3
+          "pointX": 9,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -924,8 +1254,68 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 3
+          "pointX": 10,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 19676,
+          "baseName": "records\\xpack3\\items\\relics\\01_x3_okeanos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\XPack\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_Elemental_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 15182,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ChillOfTartarus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\XPack\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_Elemental_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 20321,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ChillOfTartarus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1110985864,
+          "pointX": 13,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 4847,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_CunningOfOddyseus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -938,9 +1328,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 746494112,
-          "pointX": 7,
-          "pointY": 3
+          "var2": 2035248,
+          "pointX": 15,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -953,9 +1343,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 964287688,
-          "pointX": 8,
-          "pointY": 3
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -968,9 +1358,9 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 928945312,
-          "pointX": 9,
-          "pointY": 3
+          "var2": 2035248,
+          "pointX": 17,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -984,8 +1374,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 3
+          "pointX": 0,
+          "pointY": 5
         }
       ]
     },
@@ -1009,7 +1399,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1935430824,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -1180,6 +1570,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 12602,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_HagsSkin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1079872656,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 14207,
           "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
           "prefixName": "",
@@ -1190,7 +1595,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 13,
           "pointY": 0
         },
         {
@@ -1205,7 +1610,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
+          "pointX": 14,
           "pointY": 0
         },
         {
@@ -1220,7 +1625,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 15,
           "pointY": 0
         },
         {
@@ -1235,7 +1640,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 16,
           "pointY": 0
         },
         {
@@ -1250,7 +1655,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 17,
           "pointY": 0
         },
         {
@@ -1265,8 +1670,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
-          "pointY": 0
+          "pointX": 0,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -1280,7 +1685,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 1,
           "pointY": 1
         },
         {
@@ -1294,8 +1699,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 532038552,
-          "pointX": 1,
+          "var2": 2035248,
+          "pointX": 2,
           "pointY": 1
         },
         {
@@ -1310,7 +1715,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 3,
           "pointY": 1
         },
         {
@@ -1325,7 +1730,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
+          "pointX": 4,
           "pointY": 1
         },
         {
@@ -1340,7 +1745,37 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 5,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 32056,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_RaptorTooth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1091498128,
+          "pointX": 6,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 13013,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_RaptorTooth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1431831768,
+          "pointX": 7,
           "pointY": 1
         },
         {
@@ -1355,7 +1790,37 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 8,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 29328,
+          "baseName": "records\\item\\animalrelics\\01_multacts_demonsblood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 890467424,
+          "pointX": 9,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 26915,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DemonsBlood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1085327936,
+          "pointX": 10,
           "pointY": 1
         },
         {
@@ -1370,7 +1835,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 11,
           "pointY": 1
         },
         {
@@ -1385,7 +1850,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 12,
           "pointY": 1
         },
         {
@@ -1400,7 +1865,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 13,
           "pointY": 1
         },
         {
@@ -1415,7 +1880,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 14,
           "pointY": 1
         },
         {
@@ -1430,7 +1895,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 15,
           "pointY": 1
         },
         {
@@ -1444,8 +1909,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1145744784,
-          "pointX": 11,
+          "var2": 2035248,
+          "pointX": 16,
           "pointY": 1
         },
         {
@@ -1459,8 +1924,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 724726904,
-          "pointX": 12,
+          "var2": 2035248,
+          "pointX": 17,
           "pointY": 1
         },
         {
@@ -1474,9 +1939,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1274005808,
-          "pointX": 13,
-          "pointY": 1
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 1471,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 973841496,
+          "pointX": 1,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1490,8 +1970,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
-          "pointY": 1
+          "pointX": 2,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1505,8 +1985,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
-          "pointY": 1
+          "pointX": 3,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1520,8 +2000,23 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
-          "pointY": 1
+          "pointX": 4,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 8989,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1121954840,
+          "pointX": 5,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1535,8 +2030,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
-          "pointY": 1
+          "pointX": 6,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1550,7 +2045,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 7,
           "pointY": 2
         },
         {
@@ -1565,7 +2060,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 8,
           "pointY": 2
         },
         {
@@ -1579,8 +2074,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 883613744,
-          "pointX": 2,
+          "var2": 2035248,
+          "pointX": 9,
           "pointY": 2
         },
         {
@@ -1594,8 +2089,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 775071904,
-          "pointX": 3,
+          "var2": 2035248,
+          "pointX": 10,
           "pointY": 2
         },
         {
@@ -1609,8 +2104,8 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1017113704,
-          "pointX": 4,
+          "var2": 2035248,
+          "pointX": 11,
           "pointY": 2
         },
         {
@@ -1625,7 +2120,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 12,
           "pointY": 2
         }
       ]
